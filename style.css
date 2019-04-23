@@ -1,0 +1,21 @@
+body{
+    background-image: url(https://thinkingreadingwritings.files.wordpress.com/2014/02/matrix.jpg);
+    color: white;
+}
+#codeplace{
+    border: double white 3px;
+    background-color: darkgreen;
+}
+
+#checkbutton{
+    border: double white 2px;
+    background-color: black;
+    font-family: 'Montserrat', sans-serif;
+    color: darkgreen;
+    font-weight: bold;
+}
+
+.instruction{
+    font-family: 'Gloria Hallelujah', cursive;
+}
+
